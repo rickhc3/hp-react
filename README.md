@@ -39,7 +39,7 @@ Aqui vão sugestões para você evoluir a página conforme quiser:
 - Pré-requisitos: Node.js LTS e um gerenciador de pacotes (npm).
 - Passos:
   1. Abra um terminal na pasta onde deseja clonar.
-  2. Execute: `git clone <URL_DO_REPO>`
+  2. Execute: `git clone https://github.com/rickhc3/hp-react.git`
   3. Entre na pasta: `cd hp-react`
   4. Instale dependências: `npm install`
   5. Inicie o servidor: `npm run dev`
