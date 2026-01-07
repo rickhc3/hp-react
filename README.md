@@ -53,7 +53,7 @@ Observação: este projeto atualmente carrega o Tailwind via CDN no `index.html`
   - Fechar ao clicar fora, no X ou usando a tecla Esc
 - Campo de busca por nome
 - Filtro por casa (Gryffindor, Hufflepuff, Ravenclaw, Slytherin)
-- Dividir em páginas (ex.: 20 nomes por página) ou “ver mais” rolando
+- Dividir em páginas (ex: 20 nomes por página) ou “ver mais” rolando
 - Ordenar nomes de A–Z ou Z–A
 - Mostrar “carregando...” enquanto busca os dados
 - Mostrar quantos resultados estão aparecendo
